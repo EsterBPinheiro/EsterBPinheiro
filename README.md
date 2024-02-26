@@ -4,7 +4,9 @@
 - 👀 I’m interested in ways of using Git and GitHub
 - 🌱 I’m currently learning how to use Git and GitHub
 - 💞️ I’m looking to collaborate on college projects with my classmates
-- 📫 How to reach me ...
+- 📫 How to reach me:
+      *@Ester_Belancieri*
+      *pine_ester@yahoo.com*
 ***
 ![Cute Rabbit](https://thumb.ac-illust.com/ad/adf002f05fba63961f5201ef45ef633e_t.jpeg)
 <!---
